@@ -244,3 +244,66 @@ text-align: center;
     height: 550px;
     border-radius: 16px;
  }
+
+ .Current-Target{
+    width: 1140px;
+    padding-top: 149px;
+  }
+  .Current-Target-Title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+ 
+ .Current-Target-Pragraph{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    padding-top: 24px;
+    padding-bottom: 48px;
+    padding-left: 144px;
+    padding-right: 144px;
+ }
+ 
+  .Current-Target-Container{
+    display: flex;
+    gap: 24px;
+  }
+ .Target-Div-HTML{
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 0.05);
+    text-align: justify;
+    padding: 40px;
+ }
+ .HTML-Title{
+    padding-top: 24px;
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+ }
+ .HTML-Pragraph{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    padding-top: 8px;
+    padding-bottom: 24px;
+ }
+ .HTML-ancor{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+ }
