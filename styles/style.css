@@ -204,3 +204,43 @@ text-align: center;
    padding:10px;
    width: 1140px;
  }
+ .Inspiration-Title{
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+    text-align: center;
+    padding-top: 88px;
+  }
+  .Inspiration-Pragraph{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 144px;
+    padding-right: 144px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+  }
+ .Ifram-Desing{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    height: 614px;
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:flex-start;
+    padding: 32px;
+    margin-right: 152px;
+ }
+    
+ .Video{
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+ }
