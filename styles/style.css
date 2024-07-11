@@ -370,3 +370,26 @@ text-align: center;
     background-color: rgb(255, 255, 255);
  
  }
+ footer{
+    width: 1440px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 16px;
+    background-color: rgba(13, 19, 33, 0.03);
+  }
+ 
+ .Footer-Name{
+    margin-left: 150px;
+ }
+ .Footer-Ancor{
+    padding-left: 527px;
+ }
+ .Footer-Ancor-FB{
+    padding-right: 24px;
+ }
+ .Footer-Ancor-git{
+    padding-right: 24px;
+ }
