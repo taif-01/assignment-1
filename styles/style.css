@@ -112,7 +112,7 @@ body{
  .Why-Web-Deve{
     border-radius: 16px;
     width: 1140px;
-    height: 1395px;
+    /* height: 1395px; */
     background-color: rgba(13, 19, 33, 0.02);
  }
 
@@ -123,7 +123,6 @@ body{
    align-items: center;
    padding: 80px 97px 80px 97px;
    border-radius: 16px;
-   /* background-color: rgba(13, 19, 33, 0.02); */
 }
 .Web-Ancor{
 width: 180px;
